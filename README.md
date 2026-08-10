@@ -17,9 +17,9 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>webpage_exemplo --> para hubs, experiences, sites etc</li>
 
 #### Para utilidades gerais
-<li>client --> para clientes de APIs</li>
+<li>client_exemplo --> para clientes de APIs</li>
 <li>crawler_exemplo --> para raspadores de dados e outros crawlers</li>
-<li>utils --> para utilidades de projetos</li>
+<li>utils_exemplo --> para utilidades de projetos</li>
 
 ### Arquivos que devem estar no seu gitignore
 <li>Bases de dados</li>
