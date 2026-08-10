@@ -3,6 +3,7 @@
 ## Github organizacional do Instituto Pereira Passsos
 para solicitar acesso ou resolver problemas: leonardo.aucar@prefeitura.rio ou pesquisaeavaliacao.ipp@prefeitura.rio
 repositórios antigos podem ainda estar fora das regras, sempre que puder adéque-os!
+atualizado em 10/08/2026
 
 ## Regras
 OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) acima
@@ -26,7 +27,6 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>Bases de dados</li>
 <li>arquivos .env</li>
 <li>arquivos __Pycache__ ou similares de outras linguagens <li>
-
 <li>Não hospedar arquivos grandes (+50mb)</li>
 <li>Não hospedar tabelas de dados ou qualquer tipo de tabela resultado</li>
 <b> OBS: Para Notebooks Jupyter --> priorize usar a biblioteca jupytext, não commit seu arquivo .ipynb, apenas os .md e .py associados<b>
