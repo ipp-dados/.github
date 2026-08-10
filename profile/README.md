@@ -1,6 +1,4 @@
-# .github
-
-## Github organizacional do Instituto Pereira Passsos
+# Github organizacional do Instituto Pereira Passsos
 <p>para solicitar acesso ou resolver problemas: leonardo.aucar@prefeitura.rio ou pesquisaeavaliacao.ipp@prefeitura.rio</p>
 <p>repositórios antigos podem ainda estar fora das regras, sempre que puder adéque-os!</p>
 <p>atualizado em 10/08/2026</p>
