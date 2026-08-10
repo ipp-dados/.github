@@ -26,7 +26,7 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 ### Arquivos que devem estar no seu gitignore
 <li>Bases de dados</li>
 <li>arquivos .env</li>
-<li>Seu ambiente de desenvolvimento</li>li>
+<li>Seu ambiente de desenvolvimento</li>
 <li>arquivos __Pycache__ ou similares de outras linguagens </li>
 <li>Não hospedar arquivos grandes (+50mb)</li>
 <li>Não hospedar tabelas de dados ou qualquer tipo de tabela resultado</li>
