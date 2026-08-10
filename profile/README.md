@@ -28,7 +28,7 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>arquivos __Pycache__ ou similares de outras linguagens </li>
 <li>Não hospedar arquivos grandes (+50mb)</li>
 <li>Não hospedar tabelas de dados ou qualquer tipo de tabela resultado</li>
-<b> OBS: Para Notebooks Jupyter --> priorize usar a biblioteca jupytext, não commit seu arquivo .ipynb, apenas os .md e .py associados<b>
+<b> OBS: Para Notebooks Jupyter --> priorize usar a biblioteca jupytext, não commit seu arquivo .ipynb, apenas os .md e .py associados</b>
 
 ### Segurança
 <li>Todos devem implementar segurança de dois fatores</li>
