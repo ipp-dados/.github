@@ -2,6 +2,7 @@
 
 ## Github organizacional do Instituto Pereira Passsos
 para solicitar acesso ou resolver problemas: leonardo.aucar@prefeitura.rio ou pesquisaeavaliacao.ipp@prefeitura.rio
+repositórios antigos podem ainda estar fora das regras, sempre que puder adéque-os!
 
 ## Regras
 OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) acima
@@ -17,15 +18,18 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>webpage_exemplo --> para hubs, experiences, sites etc</li>
 
 #### Para utilidades gerais
-<li>client --> para clientes de APIs</li>
+<li>client_exemplo --> para clientes de APIs</li>
 <li>crawler_exemplo --> para raspadores de dados e outros crawlers</li>
-<li>utils --> para utilidades de projetos</li>
+<li>utils_exemplo --> para utilidades de projetos</li>
 
 ### Arquivos que devem estar no seu gitignore
 <li>Bases de dados</li>
 <li>arquivos .env</li>
+<li>arquivos __Pycache__ ou similares de outras linguagens <li>
+
 <li>Não hospedar arquivos grandes (+50mb)</li>
 <li>Não hospedar tabelas de dados ou qualquer tipo de tabela resultado</li>
+<b> OBS: Para Notebooks Jupyter --> priorize usar a biblioteca jupytext, não commit seu arquivo .ipynb, apenas os .md e .py associados<b>
 
 ### Segurança
 <li>Todos devem implementar segurança de dois fatores</li>
