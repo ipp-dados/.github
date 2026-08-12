@@ -13,8 +13,7 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 
 #### Para produtos:
 <li>analise_exemplo --> relatórios descritivos ou de avaliação de impacto (nesse caso usar análise_impacto_ ) </li>
-<li>dashboard_exemplo --> dashboards e painéis</li>
-<li>webpage_exemplo --> para hubs, experiences, sites etc</li>
+<li>dashboard_exemplo --> dashboards e painéis, hubs, experiences, sites etc</li>
 
 #### Para utilidades gerais
 <li>client_exemplo --> para clientes de APIs</li>
