@@ -31,7 +31,7 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>NUNCA compartilhar ou dar commit em arquivos .env</li>
 
 ### Recomendação de commits
-<li>TIPO COMMIT: descrição da atualização<li></li>
+<li>TIPO COMMIT: descrição da atualização</li>
 
 <b>Tipo	Quando usar</b>
 <li>FEAT -	Uma nova funcionalidade para o usuário</li>
