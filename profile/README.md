@@ -32,8 +32,8 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 
 ### Recomendação de commits
 <li>TIPO COMMIT: descrição da atualização</li>
-
-<b>Tipo	Quando usar</b>
+<p></p>
+<ul><b>Tipo	Quando usar</b>
 <li>FEAT -	Uma nova funcionalidade para o usuário</li>
 <li>FIX	- Correção de um bug</li>
 <li>DOCS -	Mudanças apenas na documentação (README, comentários, etc.)</li>
@@ -45,6 +45,7 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>CI -	Mudanças em arquivos/scripts de integração contínua</li>
 <li>CHORE -	Tarefas gerais de manutenção, sem afetar código de produção</li>
 <li>REVERT	Reverte um commit anterior</li>
+</ul>
 
 ### Outras boas práticas
 <li>Evite arquivos de formatos proprietários como XLSX, prefira csv</li>
