@@ -58,4 +58,4 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li></li>
 
 ### Updates
-18-09-2026 - correção textual sobre arquivos di gitignore e criação de ROADMAP
+18-09-2026 - correção textual sobre arquivos do gitignore e criação de ROADMAP
