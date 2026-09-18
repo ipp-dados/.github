@@ -19,11 +19,11 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>crawler_exemplo --> para raspadores de dados e outros crawlers</li>
 <li>utils_exemplo --> para utilidades de projetos</li>
 
-### Arquivos que devem estar no seu gitignore
+### Arquivos que devem estar no seu *gitignore*
 <li>Bases de dados</li>
 <li>arquivos .env</li>
-<li>Não hospedar arquivos grandes (+50mb)</li>
-<li>Não hospedar tabelas de dados ou qualquer tipo de tabela resultado</li>
+<li>arquivos grandes (+50mb)</li>
+<li>tabelas de dados ou qualquer tipo de tabela resultado</li>
 
 ### Segurança
 <li>Todos devem implementar segurança de dois fatores</li>
@@ -52,3 +52,10 @@ OBS: caso deseje adicionar outra nomenclatura, favor informar no(s) e-mail(s) ac
 <li>Inclua sempre um readme.md sobre seu projeto</li>
 <li>Inclua sempre um requirements.txt</li>
 <li>Siga boas práticas de organização e documentação do seu código</li>
+
+[ROADMAP]
+<li>Regras e guia de uso de IAs</li>
+<li></li>
+
+### Updates
+18-09-2026 - correção textual sobre arquivos di gitignore e criação de ROADMAP
